@@ -1,4 +1,8 @@
-# [Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Elezi_Not_All_Labels_Are_Equal_Rationalizing_the_Labeling_Costs_for_CVPR_2022_paper.pdf)
+# [Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection]
+(https://openaccess.thecvf.com/content/CVPR2022/papers/Elezi_Not_All_Labels_Are_Equal_Rationalizing_the_Labeling_Costs_for_CVPR_2022_paper.pdf)
+
+This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection presented at CVPR 2023.
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Elezi_Not_All_Labels_Are_Equal_Rationalizing_the_Labeling_Costs_for_CVPR_2022_paper.pdf) | [Code](https://github.com/NVlabs/AL-SSL)
 
 
 ## Installation & Preparation
@@ -27,7 +31,7 @@ This work is made available under the Nvidia Source Code License-NC. Click [here
 
 The pre-trained models are shared under CC-BY-NC-SA-4.0. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-For business inquiries, please visit our website and submit the form: NVIDIA Research Licensing.
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
 
 
 ## Citation
