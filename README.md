@@ -1,10 +1,14 @@
 # Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection
 
-This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for 
+This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for:
 
 [Not All Labels Are Equal:Rationalizing The Labeling Costs for Training Object Detection] (https://openaccess.thecvf.com/content/CVPR2022/papers/Elezi_Not_All_Labels_Are_Equal_Rationalizing_the_Labeling_Costs_for_CVPR_2022_paper.pdf)
+
 Ismail Elezi, Zhiding Yu, Anima Anandkumar, Laura Leal-Taixe, and Jose M. Alvarez.
+
 CVPR 2023.
+
+
 [Code](https://github.com/NVlabs/AL-SSL)
 
 
