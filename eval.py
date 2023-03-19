@@ -4,6 +4,12 @@
     Licensed under The MIT License [see LICENSE for details]
 """
 
+# Copyright (c) 2022-2023, NVIDIA Corporation & Affiliates. All rights reserved.
+#
+# This work is made available under the Nvidia Source Code License-NC.
+# To view a copy of this license, visit
+# https://github.com/NVlabs/AL-SSL/
+
 from __future__ import print_function
 import torch
 import torch.nn as nn
